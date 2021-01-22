@@ -7,4 +7,4 @@
     [3] Basic html tags and css components.
     [4] Basic knowledge of javascript.
 
-####  Click here ➡[CALCULATOR](https://dazzling-yalow-2b2d28.netlify.app/calculator.html)⬅ to use the calculator😝
+####  Click here ➡[CALCULATOR](https://sprasanth2k-calculator.netlify.app/calculator.html)⬅ to use the calculator😝
